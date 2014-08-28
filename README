@@ -2,3 +2,8 @@ Search
 
 Copyright 2014 by tim lindner. All rights reserved.
 
+This tool will search simple sqlite (with a specific schema) databases and display
+the results in a nice window.
+
+This tool know about four different kinds of database files and mix the results
+together.
